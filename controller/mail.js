@@ -1,5 +1,5 @@
 const nodemailer = require("nodemailer");
-const senderInfo = require("../config/snederInfo.json");
+const senderInfo = require("../config/senderInfo.json");
 
 
 const mailSender = {
